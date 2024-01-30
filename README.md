@@ -1,14 +1,3 @@
-Age: 23
-
-Madrid, Spain
-
-LinkedIn:  linkedin.com/in/mateo-andrés-angelini-norkus-145910230 
-
-email: mangelininorkus@gmail.com
-
-Mobile : +34 679036224
-
----
 
 ## Education
 
